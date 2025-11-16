@@ -20,4 +20,6 @@ The model is based on the combined **electrical armature equation** and **mechan
 - Output variables:
   - Motor torque  
   - Angular velocity  
-  - Back-EMF  
+  - Back-EMF
+ 
+  Please Download the motor_ode.m function first before simulated the simulation. Thanks
