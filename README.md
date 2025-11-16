@@ -22,4 +22,4 @@ The model is based on the combined **electrical armature equation** and **mechan
   - Angular velocity  
   - Back-EMF
  
-  Please Download the motor_ode.m function first before simulated the simulation. Thanks
+  Please Download the motor_ode.m function first before simulating the simulation. Thanks
